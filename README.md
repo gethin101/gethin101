@@ -1,6 +1,6 @@
 # 💫 About Me:
-⚙️ I'm Currently working on a [Combat Robot](https://github.com/gethin101/GG-Battle-robot) and [75% mechanical keyboard](https://github.com/gethin101/Custom-60KB)
-🔭 I’m currently learning Python, HTML, CSS and Javascript
+⚙️ I'm Currently working on a [Combat Robot](https://github.com/gethin101/GG-Battle-robot) and [75% mechanical keyboard](https://github.com/gethin101/Custom-60KB)<br>
+🔭 I’m currently learning Python, HTML, CSS and Javascript<br>
 ⚡ Fun fact: I like making PCBs and electronics projects
 
 
