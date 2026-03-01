@@ -1,7 +1,7 @@
 # 💫 About Me:
 ⚙️ I'm Currently working on a [Combat Robot](https://github.com/gethin101/GG-Battle-robot) and [75% mechanical keyboard](https://github.com/gethin101/Custom-60KB)<br>
 🔭 I’m currently learning Python, HTML, CSS and Javascript<br>
-⚙️ Past projects [3x3 Macropad](https://github.com/gethin101/hackpad_2025) and [Bambu A1 mini external camera system](https://github.com/gethin101/A1-mini-camera-system)<br>
+⚙️ Past projects include my [3x3 Macropad](https://github.com/gethin101/hackpad_2025) and [Bambu A1 mini external camera system](https://github.com/gethin101/A1-mini-camera-system)<br>
 ⚡ Fun fact: I like making PCBs and electronics projects
 
 
