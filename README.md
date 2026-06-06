@@ -1,6 +1,6 @@
 # About Me:
-⚙️ I'm currently working on a [Combat Robot](https://github.com/gethin101/GG-Battle-robot) and [Flipper Zero Device](https://github.com/gethin101/GhostOne)<br>
-🔭 I’m currently learning [Python](https://github.com/gethin101/comp-sci), HTML, CSS and Javascript<br>
+⚙️ Currently working on a [Combat Robot](https://github.com/gethin101/GG-Battle-robot) and [Flipper Zero Device](https://github.com/gethin101/GhostOne)<br>
+🔭 Currently learning [Python](https://github.com/gethin101/comp-sci), HTML, CSS and Javascript<br>
 💻 Past projects include my [3x3 Macropad](https://github.com/gethin101/hackpad_2025), [75% mechanical keyboard](https://github.com/gethin101/Custom-60KB) and [Bambu A1 mini external camera system](https://github.com/gethin101/A1-mini-camera-system)<br>
 ⚡ Use KiCad, Fusion 360 & VS Code
 
