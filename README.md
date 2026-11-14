@@ -1,8 +1,35 @@
+<div align="center">
+
+# Hi, I'm gethin101 👋
+
+A student and self-taught hardware & software developer who enjoys building real, functional computer science projects.
+
+My interests include **PCB design**, **Web development**, **Embedded systems**, and **Software engineering**.
+
+<a href="https://github.com/gethin101"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/GitHub-%40gethin101-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="GitHub" src="https://www.shieldcn.dev/badge/GitHub-%40gethin101-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=light"></picture></a> <a href="https://gethingrice.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/Website-gethingrice.com-181717.svg?logo=ri%3ALuLink&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="Website" src="https://www.shieldcn.dev/badge/Website-gethingrice.com-181717.svg?logo=ri%3ALuLink&amp;variant=branded&amp;size=sm&amp;mode=light"></picture></a>
+
+ <a href="https://github.com/gethin101?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/Repos-53-2563eb.svg?logo=github&amp;variant=secondary&amp;size=sm&amp;mode=dark"><img alt="Public Repos" src="https://www.shieldcn.dev/badge/Repos-53-2563eb.svg?logo=github&amp;variant=secondary&amp;size=sm&amp;mode=light"></picture></a> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/Location-UK-6366f1.svg?logo=googlemaps&amp;variant=ghost&amp;size=sm&amp;mode=dark"><img alt="Location" src="https://www.shieldcn.dev/badge/Location-UK-6366f1.svg?logo=googlemaps&amp;variant=ghost&amp;size=sm&amp;mode=light"></picture> 
+
+</div>
 
 ---
 
-# Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![KiCad](https://img.shields.io/badge/kicad-%2300578F.svg?style=for-the-badge&logo=kicad&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
+## Past Projects
+
+- [**Hackpad v1**](https://github.com/gethin101/hackpad_2025) - A 3x3 mechanical macropad powered by a XIAO-RP2040
+- [**Terminator Eyes**](https://github.com/gethin101/terminator-eyes) - Terminator eyes LED project designed & built for a client
+- [**Gethin-75**](https://github.com/gethin101/Gethin-75) - A custom 60% mechanical Cherry-MX keyboard powered by a Pi Pico
+- [**GG-Battle-Robot**](https://github.com/gethin101/GG-Battle-robot) - Robot-wars inspired combat robot controlled via a WiFi access point
+- [**555 Blinky**](https://github.com/gethin101/Gethin-blinky) - An analogue 555 IC LED blinker inspired by police lights
+
+## Works In Progress
+
+- [**A1M Camera System**](https://github.com/gethin101/A1-mini-camera-system) - Custom external timelapse camera system for A1 Mini 3D printer
+- [**GhostOne**](https://github.com/gethin101/GhostOne) - Flipper-zero inspired pentesting & access control system multitool device
+- [**Christmas LEDs**](https://github.com/gethin101/Led_christmas_lights) - Voice-controlled LED christmas lights room setup
+- [**Flux Saber**](https://github.com/gethin101/flux-saber) - Custom DIY lightsaber powered by an Arduino Nano & WS2812B LEDs
 
 ---
+## Skills & Technologies 💻
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![KiCad](https://img.shields.io/badge/kicad-%2300578F.svg?style=for-the-badge&logo=kicad&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)  
