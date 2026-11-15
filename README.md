@@ -32,26 +32,14 @@ My interests include **PCB design**, **Web development**, **Embedded systems**, 
 ---
 ## Skills & Technologies 💻
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![KiCad](https://img.shields.io/badge/kicad-%2300578F.svg?style=for-the-badge&logo=kicad&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![KiCad](https://img.shields.io/badge/kicad-%2300578F.svg?style=for-the-badge&logo=KiCad&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)  
 
 ---
 ## Images
 
-
-
-
-
-
-
-
-
-
-
-
-
 | | | |
 |---|---|---|
-| <img width="3264" height="2448" alt="hackpad_built" src="https://github.com/user-attachments/assets/092c2dc8-e1b5-4316-a611-5a4e9da2b6ec" /> | <img width="2448" height="3264" alt="IMG_4173" src="https://github.com/user-attachments/assets/b055d890-f34e-4e58-8605-adf8f214da02" /> | <img width="3264" height="2448" alt="IMG_3209" src="https://github.com/user-attachments/assets/0b903ac6-c67f-46bd-9059-c6b45cda33da" /> |
-| <img width="3264" height="2448" alt="IMG_3295" src="https://github.com/user-attachments/assets/3fa53995-1ce8-46cd-adbd-5cad444ae95e" /> | <img width="668" height="745" alt="4" src="https://github.com/user-attachments/assets/271d256c-744a-4c8a-84c3-c013248aa7cc"/> | <img width="1354" height="662" alt="project6-3" src="https://github.com/user-attachments/assets/baa99676-f1b0-4df1-84df-5ff497b3e1a0" /> 
+| [<img width="3264" height="2448" alt="hackpad_built" src="https://github.com/user-attachments/assets/092c2dc8-e1b5-4316-a611-5a4e9da2b6ec" />](https://github.com/gethin101/hackpad_2025) | [<img width="2448" height="3264" alt="IMG_4173" src="https://github.com/user-attachments/assets/b055d890-f34e-4e58-8605-adf8f214da02" />](https://github.com/gethin101/terminator-eyes) | [<img width="3264" height="2448" alt="IMG_3209" src="https://github.com/user-attachments/assets/0b903ac6-c67f-46bd-9059-c6b45cda33da" />](https://github.com/gethin101/Gethin-75) |
+| [<img width="3264" height="2448" alt="IMG_3295" src="https://github.com/user-attachments/assets/3fa53995-1ce8-46cd-adbd-5cad444ae95e" />](https://github.com/gethin101/GG-Battle-robot) | [<img width="668" height="745" alt="4" src="https://github.com/user-attachments/assets/271d256c-744a-4c8a-84c3-c013248aa7cc"/>](https://github.com/gethin101/A1-mini-camera-system) | [<img width="1354" height="662" alt="project6-3" src="https://github.com/user-attachments/assets/baa99676-f1b0-4df1-84df-5ff497b3e1a0" />](https://github.com/gethin101/Gethin-blinky) |
 |  |
-| <img width="1085" height="901" alt="project4-2" src="https://github.com/user-attachments/assets/525ea2fb-8832-4036-bd03-ac55a1f4b6c2" /> | <img width="1139" height="797" alt="project4-1" src="https://github.com/user-attachments/assets/a073bdcc-550f-4b75-8754-ec6b59e5b09c" /> | <img width="1219" height="725" alt="case" src="https://github.com/user-attachments/assets/e5da4fef-ff48-4660-9104-9bf7bcd5c438" /> |
+| [<img width="1085" height="901" alt="project4-2" src="https://github.com/user-attachments/assets/525ea2fb-8832-4036-bd03-ac55a1f4b6c2" />](https://github.com/gethin101/GhostOne) | [<img width="1139" height="797" alt="project4-1" src="https://github.com/user-attachments/assets/a073bdcc-550f-4b75-8754-ec6b59e5b09c" />](https://github.com/gethin101/GhostOne) | [<img width="1219" height="725" alt="case" src="https://github.com/user-attachments/assets/e5da4fef-ff48-4660-9104-9bf7bcd5c438" />](https://github.com/gethin101/Led_christmas_lights) |
