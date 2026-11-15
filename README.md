@@ -47,9 +47,10 @@ My interests include **PCB design**, **Web development**, **Embedded systems**, 
 
 
 
+
 | | | |
 |---|---|---|
 | <img width="3264" height="2448" alt="hackpad_built" src="https://github.com/user-attachments/assets/092c2dc8-e1b5-4316-a611-5a4e9da2b6ec" /> | <img width="2448" height="3264" alt="IMG_4173" src="https://github.com/user-attachments/assets/b055d890-f34e-4e58-8605-adf8f214da02" /> | <img width="3264" height="2448" alt="IMG_3209" src="https://github.com/user-attachments/assets/0b903ac6-c67f-46bd-9059-c6b45cda33da" /> |
 | <img width="3264" height="2448" alt="IMG_3295" src="https://github.com/user-attachments/assets/3fa53995-1ce8-46cd-adbd-5cad444ae95e" /> | <img width="668" height="745" alt="4" src="https://github.com/user-attachments/assets/271d256c-744a-4c8a-84c3-c013248aa7cc"/> | <img width="1354" height="662" alt="project6-3" src="https://github.com/user-attachments/assets/baa99676-f1b0-4df1-84df-5ff497b3e1a0" /> 
 |  |
-| [<img src="https://placehold.co/100x100?text=7" width="100" alt="Image 7">](https://placehold.co/100x100?text=7) | <img width="1139" height="797" alt="project4-1" src="https://github.com/user-attachments/assets/a073bdcc-550f-4b75-8754-ec6b59e5b09c" /> | [<img src="https://placehold.co/100x100?text=9" width="100" alt="Image 9">](https://placehold.co/100x100?text=9) |
+| <img width="1085" height="901" alt="project4-2" src="https://github.com/user-attachments/assets/525ea2fb-8832-4036-bd03-ac55a1f4b6c2" /> | <img width="1139" height="797" alt="project4-1" src="https://github.com/user-attachments/assets/a073bdcc-550f-4b75-8754-ec6b59e5b09c" /> | [<img src="https://placehold.co/100x100?text=9" width="100" alt="Image 9">](https://placehold.co/100x100?text=9) |
