@@ -36,6 +36,7 @@ My interests include **PCB design**, **Web development**, **Embedded systems**, 
 
 ---
 ## Images
+|||
 |---|---|---|
 | [<img src="https://placehold.co/100x100?text=1" width="100" alt="Image 1">](https://placehold.co/100x100?text=1) | [<img src="https://placehold.co/100x100?text=2" width="100" alt="Image 2">](https://placehold.co/100x100?text=2) | [<img src="https://placehold.co/100x100?text=3" width="100" alt="Image 3">](https://placehold.co/100x100?text=3) |
 | [<img src="https://placehold.co/100x100?text=4" width="100" alt="Image 4">](https://placehold.co/100x100?text=4) | [<img src="https://placehold.co/100x100?text=5" width="100" alt="Image 5">](https://placehold.co/100x100?text=5) | [<img src="https://placehold.co/100x100?text=6" width="100" alt="Image 6">](https://placehold.co/100x100?text=6) |
